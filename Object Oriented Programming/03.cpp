@@ -30,6 +30,8 @@ class student
             
         cout<<"Enter the student's science subject marks : ";
         cin>>science;
+        
+        ctotal();
     }
         
     void Displaydata() {
@@ -39,6 +41,7 @@ class student
         cout<<"English subject marks : "<<english<<endl;
         cout<<"Maths subject marks : "<<maths<<endl;
         cout<<"Science subject marks : "<<science<<endl;
+        cout<<"Total marks gained by student is : "<<total<<endl;
     }
 };
 
@@ -46,4 +49,5 @@ int main() {
     student s1;
     s1.Readdata();
     s1.Displaydata();
+    return 0;
    }
