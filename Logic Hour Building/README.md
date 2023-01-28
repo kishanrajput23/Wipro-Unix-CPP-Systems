@@ -45,7 +45,7 @@ By the end of Day 2 : Students should be able to demonstrate their understanding
 
 Students who have NOT been able to complete the above mentioned programs on day-2, MUST complete them on day-3.
 
-Objective of Day3 : Learn the use of division / and mod % operations to solve problems
+Objective of Day 3 : Learn the use of division / and mod % operations to solve problems
 
 Solve the below questions using the respective IDE (Eclipse for Java,  Visual studio for C#,  vi for C/C++)
 
@@ -178,7 +178,7 @@ Objective of Day 7 : Learn to solve math based number problems (will require loo
 
 # Day 8
 
-Objective of Day 8: Learn to solve number based problems (will require loops)
+Objective of Day 8 : Learn to solve number based problems (will require loops)
 
 |  Question Title  |  Mettl Practice Test Link  |
 |:-----------------|:--------------------------:|
@@ -189,7 +189,7 @@ Objective of Day 8: Learn to solve number based problems (will require loops)
 
 # Day 9
 
-Objective of Day 9: Learn to solve number based problems
+Objective of Day 9 : Learn to solve number based problems
  
 |  Question Title  |  Mettl Practice Test Link  |
 |:-----------------|:--------------------------:|
@@ -200,7 +200,7 @@ Objective of Day 9: Learn to solve number based problems
 
 # Day 10
 
-Objective of Day10: Learn to solve number & string based problems
+Objective of Day 10 : Learn to solve number & string based problems
  
 |  Question Title  |  Mettl Practice Test Link  |
 |:-----------------|:--------------------------:|
