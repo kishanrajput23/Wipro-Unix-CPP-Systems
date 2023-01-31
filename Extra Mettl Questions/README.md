@@ -11,3 +11,5 @@
 **Question 5 :** [Find String Code](https://tests.mettl.com/v2/authenticateKey/e4df74e5)
 
 **Question 6 :** [Most Frequently Occuring Digit](https://tests.mettl.com/authenticateKey/cbe4c4da)
+
+**Question 7 :** [Sum of Power of Digits](https://tests.mettl.com/authenticateKey/92437794)
