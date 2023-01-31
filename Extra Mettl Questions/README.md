@@ -9,3 +9,5 @@
 **Question 4 :** [Simple Encoded Array](https://tests.mettl.com/v2/authenticateKey/1557c062)
 
 **Question 5 :** [Find String Code](https://tests.mettl.com/v2/authenticateKey/e4df74e5)
+
+**Question 6 :** [Most Frequently Occuring Digit](https://tests.mettl.com/authenticateKey/cbe4c4da)
