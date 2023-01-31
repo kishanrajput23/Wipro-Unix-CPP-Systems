@@ -13,3 +13,5 @@
 **Question 6 :** [Most Frequently Occuring Digit](https://tests.mettl.com/authenticateKey/cbe4c4da)
 
 **Question 7 :** [Sum of Power of Digits](https://tests.mettl.com/authenticateKey/92437794)
+
+**Question 8 :** [Sum of Sums of Digits in Cyclic Order](https://tests.mettl.com/authenticateKey/1ddbe65e)
