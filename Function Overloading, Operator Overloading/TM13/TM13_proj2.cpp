@@ -2,8 +2,7 @@
 
 using namespace std;
 
-class Int
-{
+class Int {
     int a; 
     public:
     Int(int n=0)
@@ -60,18 +59,7 @@ class Int
     friend ostream &operator<<(ostream&,Int&);
     friend istream &operator>>(istream&,Int&);
 };
-/*Int operator +(Int& m,Int& n)
-{
-    Int ans;
-    ans.a=m.a+n.a;
-    return ans;
-}
-Int operator -(Int& m,Int& n)
-{
-    Int ans;
-    ans.a=m.a+n.a;
-    return ans;
-}*/
+
 ostream &operator <<(ostream &os,Int &obj)
 {
    os<<obj.a;
