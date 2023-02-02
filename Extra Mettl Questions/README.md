@@ -23,3 +23,7 @@
 **Question 11 :** [Generate series and find Nth element](https://tests.mettl.com/v2/authenticateKey/d2272e10)
 
 **Question 12 :** [Find result after alternate add_sub on N](https://tests.mettl.com/authenticateKey/814effc3)
+
+**Question 13 :** [Find Password (stable unstable)](https://tests.mettl.com/authenticateKey/5106dfd)
+
+**Question 14 :** [Calculate sum of non-prime index values](https://tests.mettl.com/authenticateKey/596e522f)
