@@ -27,3 +27,9 @@
 **Question 13 :** [Find Password (stable unstable)](https://tests.mettl.com/authenticateKey/5106dfd)
 
 **Question 14 :** [Calculate sum of non-prime index values](https://tests.mettl.com/authenticateKey/596e522f)
+
+**Question 15 :** [The “Nambiar Number” Generator](https://tests.mettl.com/authenticateKey/7db6c8a4)
+
+**Question 16 :** [User ID Generation](https://tests.mettl.com/authenticateKey/592740f3)
+
+**Question 17 :** [Message controlled Robot movement](https://tests.mettl.com/authenticateKey/aedcc3a6)
