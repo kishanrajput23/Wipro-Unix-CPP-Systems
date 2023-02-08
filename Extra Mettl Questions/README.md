@@ -33,3 +33,5 @@
 **Question 16 :** [User ID Generation](https://tests.mettl.com/authenticateKey/592740f3)
 
 **Question 17 :** [Message controlled Robot movement](https://tests.mettl.com/authenticateKey/aedcc3a6)
+
+**Question 18 :** [Encoding Three Strings](https://tests.mettl.com/authenticateKey/f05028d5)
