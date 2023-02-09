@@ -16,28 +16,30 @@
 
 **Question 8 :** [Sum of Sums of Digits in Cyclic Order](https://tests.mettl.com/authenticateKey/1ddbe65e)
 
-**Question 9 :** [Find the one digit to be removed to form palindrome](https://tests.mettl.com/v2/authenticateKey/6d825776)
+**Question 9 :** [Find the One Digit to be Removed to Form Palindrome](https://tests.mettl.com/v2/authenticateKey/6d825776)
 
 **Question 10 :** [Identify Possible Words](https://tests.mettl.com/v2/authenticateKey/13486c16)
 
-**Question 11 :** [Generate series and find Nth element](https://tests.mettl.com/v2/authenticateKey/d2272e10)
+**Question 11 :** [Generate Series and Find Nth Element](https://tests.mettl.com/v2/authenticateKey/d2272e10)
 
-**Question 12 :** [Find result after alternate add_sub on N](https://tests.mettl.com/authenticateKey/814effc3)
+**Question 12 :** [Find Result After Alternate add_sub on N](https://tests.mettl.com/authenticateKey/814effc3)
 
-**Question 13 :** [Find Password (stable unstable)](https://tests.mettl.com/authenticateKey/5106dfd)
+**Question 13 :** [Find Password (Stable Unstable)](https://tests.mettl.com/authenticateKey/5106dfd)
 
-**Question 14 :** [Calculate sum of non-prime index values](https://tests.mettl.com/authenticateKey/596e522f)
+**Question 14 :** [Calculate Sum of Non-Prime Index Values](https://tests.mettl.com/authenticateKey/596e522f)
 
 **Question 15 :** [The “Nambiar Number” Generator](https://tests.mettl.com/authenticateKey/7db6c8a4)
 
 **Question 16 :** [User ID Generation](https://tests.mettl.com/authenticateKey/592740f3)
 
-**Question 17 :** [Message controlled Robot movement](https://tests.mettl.com/authenticateKey/aedcc3a6)
+**Question 17 :** [Message controlled Robot Movement](https://tests.mettl.com/authenticateKey/aedcc3a6)
 
 **Question 18 :** [Encoding Three Strings](https://tests.mettl.com/authenticateKey/f05028d5)
 
-**Question 19 :** [Return The Reduced String(https://tests.mettl.com/authenticateKey/1tkfnuxhc0)
+**Question 19 :** [Return The Reduced String](https://tests.mettl.com/authenticateKey/1tkfnuxhc0)
 
 **Question 20 :** [Number Sum In String](https://tests.mettl.com/v2/authenticateKey/1tkhskt7nk)
 
 **Question 21 :** [Number of Prime Numbers in a Specified Range](https://tests.mettl.com/v2/authenticateKey/87c41143)
+
+**Question 22 :** [All Digits Count](https://tests.mettl.com/v2/authenticateKey/ed6b4da)
