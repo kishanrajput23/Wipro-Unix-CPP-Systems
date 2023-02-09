@@ -43,3 +43,13 @@
 **Question 21 :** [Number of Prime Numbers in a Specified Range](https://tests.mettl.com/v2/authenticateKey/87c41143)
 
 **Question 22 :** [All Digits Count](https://tests.mettl.com/v2/authenticateKey/ed6b4da)
+
+**Question 23 :** [Even Odd Zeroes](https://tests.mettl.com/v2/authenticateKey/1pevca6sjk)
+
+**Question 24 :** [Find Position](https://tests.mettl.com/v2/authenticateKey/1qqnmuxla8)
+
+**Question 25 :** [Characters Or Sum Digit](https://tests.mettl.com/v2/authenticateKey/1qq4rrjd34)
+
+**Question 26 :** [Step Number](https://tests.mettl.com/v2/authenticateKey/1qq54j0oow)
+
+**Question 27 :** [Sum of Elements of a Modified Array](https://tests.mettl.com/v2/authenticateKey/1qvrno4zcw)
