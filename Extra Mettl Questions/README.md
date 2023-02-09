@@ -35,3 +35,9 @@
 **Question 17 :** [Message controlled Robot movement](https://tests.mettl.com/authenticateKey/aedcc3a6)
 
 **Question 18 :** [Encoding Three Strings](https://tests.mettl.com/authenticateKey/f05028d5)
+
+**Question 19 :** [Return The Reduced String(https://tests.mettl.com/authenticateKey/1tkfnuxhc0)
+
+**Question 20 :** [Number Sum In String](https://tests.mettl.com/v2/authenticateKey/1tkhskt7nk)
+
+**Question 21 :** [Number of Prime Numbers in a Specified Range](https://tests.mettl.com/v2/authenticateKey/87c41143)
