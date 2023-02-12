@@ -1,0 +1,19 @@
+1st command : mkdir PJP
+
+2nd command : cd PJP
+
+3rd command : touch prog1.c prog2.c app1.c app2.c app12.c app11.c
+
+4th command : ls *.c
+
+5th command : ls -l app*
+
+6th command : ls app[12][12]*
+
+7th command : ls prog???
+
+8th command : rm *.c
+
+9th command : cd ..
+
+10th command : rmdir PJP

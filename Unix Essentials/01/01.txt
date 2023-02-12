@@ -1,0 +1,9 @@
+1st command : mkdir PJP
+
+2nd command : cd PJP
+
+3rd command : pwd
+
+4th command : touch john.dat
+
+5th command : ls
