@@ -1,48 +1,87 @@
 unix mini project
 
-Q1
-
 unix basic project
 
 passwd
+
 ls
+
 pwd
+
 ls -l
+
 ls -al
+
 ls -ltr
+
 cd<directory>
+
 Read about absolute path and relative path
+
 cd cd.. cd. cd- cd~
+
 file <filename>
+
 which
+
 history
+
 !! !string !num !-num
+
 manmkdir
+
 touch
+
 ls --try with metacharacters*?[chars]
+
 ls[aeiou]* ls[!aeiou]* ls[a-m][c-f][2-7]*
+
 cp
+
 mv
+
 rm<filename>  rm file*
+
 rmdir
+
 rm-Rf
+
 cat<filename>
+
 cat file1 file2
+
 cat<RETURN>
+
 redirection > >>
+
 cat>filename
+
 cat>>filename   
+
 more<filename>
+
 less<filename>
+
 head <filename>
+
 head-n4-v <filename1> <filename2>
+
 tail <filename>
+
 tail-n4-v <filename1> <filename2>
+
 pipe |    e.g.history | less
+
 32 head <filename>
+
 vi
+
 In filename hard LinkName
+
 In-s filename softLinkName
+
 chmod
+
 chown
+
 chgrp
