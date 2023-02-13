@@ -1,0 +1,7 @@
+printf("Hello"
+scanf("%d , &x)
+add(x, y) 
+mydata()
+x = (a + b)
+(*ptr ++
+printf"hello Wipro")
