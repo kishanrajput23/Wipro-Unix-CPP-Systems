@@ -1,0 +1,9 @@
+ on which containers sort can be applied?
+->Associative containers:-Implement sorted data structures that can be quickly searched (O(log n) complexity). 
+
+Set: Collection of unique keys, sorted by keys 
+(class template)
+Map: Collection of key-value pairs, sorted by keys, keys are unique (class template).
+multiset: Collection of keys, sorted by keys (class template)
+multimap: Collection of key-value pairs, sorted by keys 
+(class template)
