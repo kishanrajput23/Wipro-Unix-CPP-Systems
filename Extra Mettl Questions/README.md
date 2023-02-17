@@ -53,3 +53,5 @@
 **Question 26 :** [Step Number](https://tests.mettl.com/v2/authenticateKey/1qq54j0oow)
 
 **Question 27 :** [Sum of Elements of a Modified Array](https://tests.mettl.com/v2/authenticateKey/1qvrno4zcw)
+
+**Question 28 :** [Minimun Number of Digits To Be Added To Form Plaindrome](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/28.cpp)
