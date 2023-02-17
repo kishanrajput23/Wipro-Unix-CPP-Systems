@@ -54,4 +54,14 @@
 
 **Question 27 :** [Sum of Elements of a Modified Array](https://tests.mettl.com/v2/authenticateKey/1qvrno4zcw)
 
-**Question 28 :** [Minimun Number of Digits To Be Added To Form Plaindrome](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/28.cpp)
+**Question 28 :** [Minimun Number of Digits To Be Added To Form Plaindrome](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/28.cpp)
+
+**Question 29 :** [Find Sum of All Prime Numbers in the Array, Except the Smallest Prime Number](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/29.cpp)
+
+**Question 30 :** [Calculate Sum of Prime Index Values in an Array](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/30.cpp)
+
+**Question 31 :** [Is Emirp Number?](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/31.cpp)
+
+**Question 32 :** [Traverse Array and Find Key (Mode 1)](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/32.cpp)
+
+**Question 33 :** [Traverse Array and Find Key (Mode 2)](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/33.cpp)
