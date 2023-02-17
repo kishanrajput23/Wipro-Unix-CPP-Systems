@@ -65,3 +65,13 @@
 **Question 32 :** [Traverse Array and Find Key (Mode 1)](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/32.cpp)
 
 **Question 33 :** [Traverse Array and Find Key (Mode 2)](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/33.cpp)
+
+**Question 34 :** [Sum of Power of Digits (Mode 1)](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/34.cpp)
+
+**Question 35 :** [Find Next](https://tests.mettl.com/v2/authenticateKey/23qrwythj4)
+
+**Question 36 :** [Transform Codes](https://tests.mettl.com/v2/authenticateKey/23qr4ajp4w)
+
+**Question 37 :** [Fund Transfer](https://tests.mettl.com/v2/authenticateKey/23qnddj4sg)
+
+**Question 38 :** [Tic Tac String](https://tests.mettl.com/v2/authenticateKey/2vt5uobi0w)
