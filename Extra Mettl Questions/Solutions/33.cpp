@@ -130,8 +130,18 @@ int main() {
         else {
             int temp = num;
             cout<<temp<<endl;
-            int key = temp%10;
-            int rem = num/10;
+            if (temp > 99) {
+                key = temp%100;
+            }
+            else {
+                key = temp%10;
+            }
+            if (num > 99) {
+                rem = num/100;
+            }
+            else {
+                rem = num/10;
+            }
             arr[k] = key;
             k++;
             num = input1[rem];
