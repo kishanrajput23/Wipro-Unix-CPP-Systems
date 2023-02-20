@@ -4,11 +4,11 @@
 
 **Question 2 :** [Get Code Through Strings](https://tests.mettl.com/v2/authenticateKey/75c9faf0)
 
-**Question 3 :** [Addition Using Strings](https://tests.mettl.com/v2/authenticateKey/2f174a80)
+**Question 3 :** [Addition Using Strings (Char Pointer)](https://tests.mettl.com/v2/authenticateKey/2f174a80)
 
 **Question 4 :** [Simple Encoded Array](https://tests.mettl.com/v2/authenticateKey/1557c062)
 
-**Question 5 :** [Find String Code](https://tests.mettl.com/v2/authenticateKey/e4df74e5)
+**Question 5 :** [Find String Code (Char Pointer)](https://tests.mettl.com/v2/authenticateKey/e4df74e5)
 
 **Question 6 :** [Most Frequently Occuring Digit](https://tests.mettl.com/authenticateKey/cbe4c4da)
 
@@ -30,7 +30,7 @@
 
 **Question 15 :** [The “Nambiar Number” Generator](https://tests.mettl.com/authenticateKey/7db6c8a4)
 
-**Question 16 :** [User ID Generation](https://tests.mettl.com/authenticateKey/592740f3)
+**Question 16 :** [User ID Generation (Char Pointer)](https://tests.mettl.com/authenticateKey/592740f3)
 
 **Question 17 :** [Message controlled Robot Movement](https://tests.mettl.com/authenticateKey/aedcc3a6)
 
