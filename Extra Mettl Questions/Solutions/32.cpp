@@ -65,6 +65,7 @@ int main() {
     int max=0;
     int arr[input2];
     int flag = 0;
+    int key,rem;
     for (int i=0; i<input2; i++) {
         if (input1[i]<0) {
             flag = 1;
@@ -96,8 +97,18 @@ int main() {
         else {
             int temp = num;
             cout<<temp<<endl;
-            int key = temp/10;
-            int rem = num%10;
+            if (temp > 99) {
+                key = temp/100;
+            }
+            else {
+                key = temp/10;
+            }
+            if (num > 99) {
+                rem = num%100;
+            }
+            else {
+                rem = num%10;
+            }
             arr[k] = key;
             k++;
             num = input1[rem];
