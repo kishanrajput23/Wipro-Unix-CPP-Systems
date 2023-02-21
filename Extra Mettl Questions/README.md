@@ -81,3 +81,9 @@
 **Question 40 :** [Coca Cola Cool Drink](https://tests.mettl.com/v2/authenticateKey/1r83ayf4sg)
 
 **Question 41 :** [Single Digit Sum](https://tests.mettl.com/v2/authenticateKey/1rqucokhz4)
+
+**Question 42 :** [Long Word](https://tests.mettl.com/v2/authenticateKey/1rr1gn5xj4)
+
+**Question 43 :** [Vowel Count In String](https://tests.mettl.com/v2/authenticateKey/1rr236qxvk)
+
+**Question 44 :** [Sum of Prime Digits](https://tests.mettl.com/v2/authenticateKey/1qqmqy8a9s)
