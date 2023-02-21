@@ -87,3 +87,5 @@
 **Question 43 :** [Vowel Count In String](https://tests.mettl.com/v2/authenticateKey/1rr236qxvk)
 
 **Question 44 :** [Sum of Prime Digits](https://tests.mettl.com/v2/authenticateKey/1qqmqy8a9s)
+
+**Question 45 :** [ASCII Sum](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/45.cpp)
