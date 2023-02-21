@@ -79,3 +79,5 @@
 **Question 39 :** [Average Round Off](https://tests.mettl.com/v2/authenticateKey/1r83xmzxts)
 
 **Question 40 :** [Coca Cola Cool Drink](https://tests.mettl.com/v2/authenticateKey/1r83ayf4sg)
+
+**Question 41 :** [Single Digit Sum](https://tests.mettl.com/v2/authenticateKey/1rqucokhz4)
