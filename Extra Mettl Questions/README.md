@@ -75,3 +75,5 @@
 **Question 37 :** [Fund Transfer](https://tests.mettl.com/v2/authenticateKey/23qnddj4sg)
 
 **Question 38 :** [Tic Tac String](https://tests.mettl.com/v2/authenticateKey/2vt5uobi0w)
+
+**Question 39 :** [Average Round Off](https://tests.mettl.com/v2/authenticateKey/1r83xmzxts)
