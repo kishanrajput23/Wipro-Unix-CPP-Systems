@@ -30,7 +30,7 @@
 
 **Question 15 :** [The “Nambiar Number” Generator](https://tests.mettl.com/authenticateKey/7db6c8a4)
 
-**Question 16 :** [User ID Generation (Char Pointer)](https://tests.mettl.com/authenticateKey/592740f3)
+**Question 16 :** [User ID Generation](https://tests.mettl.com/authenticateKey/592740f3)
 
 **Question 17 :** [Message controlled Robot Movement](https://tests.mettl.com/authenticateKey/aedcc3a6)
 
