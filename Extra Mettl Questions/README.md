@@ -100,7 +100,7 @@
 
 **Question 50 :** [Count of Characters](https://tests.mettl.com/v2/authenticateKey/6d1118b6)
 
-**Question 50 :** [Number to String Mapping)(https://tests.mettl.com/v2/authenticateKey/cd638bf7)
+**Question 50 :** [Number to String Mapping](https://tests.mettl.com/v2/authenticateKey/cd638bf7)
 
 **Question 50 :** [Collection of 7 Questions](https://tests.mettl.com/v2/authenticateKey/fcb5375a)
 
