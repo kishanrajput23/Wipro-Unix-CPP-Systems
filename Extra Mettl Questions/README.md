@@ -91,3 +91,18 @@
 **Question 45 :** [ASCII Sum](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/45.cpp)
 
 **Question 46 :** [Check Email ID](https://tests.mettl.com/v2/authenticateKey/23qq7rdb0g)
+
+**Question 47 :** [Find The Sum (Uncommon Alphabets)](https://tests.mettl.com/v2/authenticateKey/23qq7rdb0g)
+
+**Question 48 :** [Find The Sum (Uncommon Numbers)](https://tests.mettl.com/v2/authenticateKey/1wn9265gcg)
+
+**Question 49 :** [Add Digits of Numbers](https://tests.mettl.com/v2/authenticateKey/1x4kv3sg74)
+
+**Question 50 :** [Count of Characters](https://tests.mettl.com/v2/authenticateKey/6d1118b6)
+
+**Question 50 :** [Number to String Mapping)(https://tests.mettl.com/v2/authenticateKey/cd638bf7)
+
+**Question 50 :** [Collection of 7 Questions](https://tests.mettl.com/v2/authenticateKey/fcb5375a)
+
+**Question 51 :** [Collection of 8 Questions](https://tests.mettl.com/v2/authenticateKey/eb03b883)
+
