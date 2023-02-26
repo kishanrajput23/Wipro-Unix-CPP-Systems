@@ -106,3 +106,5 @@
 
 **Question 51 :** [Collection of 8 Questions](https://tests.mettl.com/v2/authenticateKey/eb03b883)
 
+**Question 52 :** [Create Password Using Parts of Words](https://tests.mettl.com/v2/authenticateKey/82f87944)
+
