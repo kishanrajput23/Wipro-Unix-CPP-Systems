@@ -36,12 +36,10 @@ int main()
         temp/=10;
     }
     
-    while(input1>0) {
-        int rem = input1%10;
-        if (a[rem] == 1) {
-            count += 1;
+    for (int i=0; i<10; i++) {
+        if (a[j]%2!=0) {
+            count++;
         }
-        input1/=10;
     }
     
     cout<<count-1<<endl;
