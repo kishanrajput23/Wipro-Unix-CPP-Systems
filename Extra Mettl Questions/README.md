@@ -100,12 +100,12 @@
 
 **Question 50 :** [Count of Characters](https://tests.mettl.com/v2/authenticateKey/6d1118b6)
 
-**Question 50 :** [Number to String Mapping](https://tests.mettl.com/v2/authenticateKey/cd638bf7)
+**Question 51 :** [Number to String Mapping](https://tests.mettl.com/v2/authenticateKey/cd638bf7)
 
-**Question 50 :** [Collection of 7 Questions](https://tests.mettl.com/v2/authenticateKey/fcb5375a)
+**Question 52 :** [Collection of 7 Questions](https://tests.mettl.com/v2/authenticateKey/fcb5375a)
 
-**Question 51 :** [Collection of 8 Questions](https://tests.mettl.com/v2/authenticateKey/eb03b883)
+**Question 53 :** [Collection of 8 Questions](https://tests.mettl.com/v2/authenticateKey/eb03b883)
 
-**Question 52 :** [Create Password Using Parts of Words](https://tests.mettl.com/v2/authenticateKey/82f87944)
+**Question 54 :** [Create Password Using Parts of Words](https://tests.mettl.com/v2/authenticateKey/82f87944)
 
-**Question 53 :** [OTP Generator](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/53.cpp)
+**Question 55 :** [OTP Generator](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/53.cpp)
