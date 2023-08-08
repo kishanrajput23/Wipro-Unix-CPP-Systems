@@ -108,4 +108,6 @@
 
 **Question 54 :** [Create Password Using Parts of Words](https://tests.mettl.com/v2/authenticateKey/82f87944)
 
-**Question 55 :** [OTP Generator](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/53.cpp)
+**Question 55 :** [OTP Generator](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/55.cpp)
+
+**Question 56 :** [Process Two Words](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/56.cpp)
