@@ -64,7 +64,7 @@
 
 **Question 32 :** [Traverse Array and Find Key (Mode 1)](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/32.cpp)
 
-**Question 33 :** [Traverse Array and Find Key (Mode 2)](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/33.cpp)
+**Question 33 :** [Traverse Array and Find Key (Mode 2)](https://tests.mettl.com/authenticateKey/f5cb7275)
 
 **Question 34 :** [Sum of Power of Digits (Mode 1)](https://github.com/kishanrajput23/Wipro-Unix-CPP-Systems/blob/main/Extra%20Mettl%20Questions/Solutions/34.cpp)
 
